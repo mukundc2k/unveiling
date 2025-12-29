@@ -2,9 +2,9 @@
   **COLM 2025**
 
   <p align="left">
-    <img src="assets/colm_logo.png" alt="COLM Logo" width="90"/>
+    <img src="assets/colm.jpg" alt="COLM Logo" width="90"/>
     &nbsp;&nbsp;
-    <img src="assets/mbzuai_logo.png" alt="MBZUAI Logo" width="90"/>
+    <img src="assets/mbzuai_logo.webp" alt="MBZUAI Logo" width="90"/>
   </p>
 
   **Mukund Choudhary***, KV Aditya Srivatsa*, Gaurja Aeron, Antara Raaghavi Bhattacharya, Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, Ekaterina Kochmar, Monojit Choudhury
