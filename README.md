@@ -81,11 +81,9 @@
 
   ## 🤝 Contact, Collaboration & Research Direction  
 
-  If you’re interested in the linguistics of LLMs, metalinguistic reasoning, cognitive structure in models, or probing how LLMs compare to humans:
+  This work is part of my broader PhD research in NLP at MBZUAI (advised by Monojit Choudhury), where I explore **how LLMs structure language**. If you’re interested in the linguistics of LLMs, metalinguistic reasoning, cognitive structure in models, or probing how LLMs compare to humans:
 
   **Email:** [mukund.choudhary@mbzuai.ac.ae](mailto:mukund.choudhary@mbzuai.ac.ae)
-
-  This work is part of my broader PhD research in NLP at MBZUAI (advised by Monojit Choudhury), where I explore **how LLMs structure language compared to humans**, and investigate their behavior across linguistic features, code-mixed usage, and abstract hierarchical reasoning.
 
   ---
 
