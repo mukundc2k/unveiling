@@ -1,11 +1,22 @@
   # unveiLing: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?  
   **COLM 2025**
 
-  <p align="left">
+  <!-- <p align="left">
     <img src="assets/colm.jpg" alt="COLM Logo" width="90"/>
     &nbsp;&nbsp;
     <img src="assets/mbzuai-logo.webp" alt="MBZUAI Logo" width="90"/>
-  </p>
+  </p> -->
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/colm.jpg" alt="COLM Logo" height="90"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/mbzuai-logo.webp" alt="MBZUAI Logo" height="90"/>
+    </td>
+  </tr>
+</table>
 
   **Mukund Choudhary***, KV Aditya Srivatsa*, Gaurja Aeron, Antara Raaghavi Bhattacharya, Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, Ekaterina Kochmar, Monojit Choudhury
 
